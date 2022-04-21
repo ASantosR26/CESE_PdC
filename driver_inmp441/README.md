@@ -1,11 +1,14 @@
 # _DRIVER INMP441_
 
-Comentario
+Driver I2S para la lectura de datos I2S del micrófono INMP41, con el ESP32.
 
 
 ## Uso del programa
 
-Comentario
+Para probar el programa necesitará el micrófono lINMP441 y el ESP32. El firmware fue probado en Visual studio Code.
+
+Para clonar el repositorio: `git clone git@github.com:ASantosR26/CESE_PdC.git`
+
 
 ## Estructura de la carpeta
 
